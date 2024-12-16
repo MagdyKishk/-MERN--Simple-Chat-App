@@ -12,7 +12,7 @@
     "typescript": "^5.7.2"
   },
   "scripts": {
-    "start": "node ./backend/index.js"
+    "start": "node ./index.js"
   },
   "type": "module"
 }
