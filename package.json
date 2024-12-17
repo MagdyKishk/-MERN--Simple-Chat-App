@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+  },
+  "scripts": {
+    "install": "cd ./backend && npm install && cd ../frontend && npm install && cd ..",
+    "start": "node ./backend/index.js"
+  },
+  "type": "module"
+}
